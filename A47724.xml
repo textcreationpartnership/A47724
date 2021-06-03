@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The emperor's letter to his own subjects and those of the empire in Italy dated from Vienna April 9th, 1689.</title>
+            <author>Leopold I, Holy Roman Emperor, 1640-1705.</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47724</idno><idno type="EEBO-CITATION">12245716</idno>
+  <idno type="VID">56932</idno>
+  <idno type="EEBO-PROQUEST">2240961176</idno>
+  
+            <idno type="STC">Wing L1111</idno>
+            <idno type="STC">ESTC R31696</idno>
+            <idno type="OCLC">12245716</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47724)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56932)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1507:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The emperor's letter to his own subjects and those of the empire in Italy dated from Vienna April 9th, 1689.</title>
+                  <author>Leopold I, Holy Roman Emperor, 1640-1705.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Clavel ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Colophon.</note>
+                  <note>"Licensed June 5th, 1689."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Austria --  History --  Leopold I, 1657-1705.</term>
+               <term type="geographic_name">France --  History --  Louis XIV, 1643-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:56932:1"/>
+            <pb n="1" facs="tcp:56932:1"/>
+            <head>
+               <hi>The Emperor's</hi> LETTER To His own Subjects, and those of the Empire in ITALY.</head>
+            <opener>
+               <dateline>Dated from <hi>Vienna,</hi>
+                  <date>
+                     <hi>April 9th.</hi> 1689.</date>
+               </dateline>
+            </opener>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed <hi>June 5th.</hi> 1689.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>WE <hi>Leopold,</hi> by favour of the Divine Clemency, Emperor of the <hi>Romans</hi> Elect, ever August, and King of <hi>Germany, Hun<g ref="char:EOLhyphen"/>gary, Bohemia, Dalmatia, Croatia, Sclavo<g ref="char:EOLhyphen"/>nia,</hi> &amp;c. Arch-Duke of <hi>Austria,</hi> Duke of <hi>Burgundy, Styria, Carinthia, Carniola,</hi> and <hi>Wirtemberg,</hi> Count of <hi>Tyrole,</hi> &amp;c. To all and singular, Our well-be<g ref="char:EOLhyphen"/>loved faithful Vassals and Subjects, and to those of the Sacred <hi>Roman</hi> Empire in <hi>Italy,</hi> of what State, De<g ref="char:EOLhyphen"/>gree, Order, Condition, Dignity and Pre-eminence soever they be, our Imperial Grace, and all Happiness.</p>
+            <p>Beloved! We make known and certify to you, That
+<pb n="2" facs="tcp:56932:2"/>whereas the Crown of <hi>France</hi> has long since, not only several ways violated the Twenty Years Truce established, <hi>Anno</hi> 1684. in the General Diet of the Empire, between Ils and the Empire on the one part, and the said Crown of <hi>France</hi> on the other part, and contrary to the express Tenour as well of that as of the Peace of <hi>Westphalia</hi> and <hi>Nimeghen,</hi> hath usurpt di<g ref="char:EOLhyphen"/>vers Places and Profits of the Empire, hath built Bridges upon the Bank of the <hi>Rhine,</hi> not belonging to the said Crown, hath erected Forts upon the Lands of the Em<g ref="char:EOLhyphen"/>pire, hath cut down the Woods, and many other ways, hath distressed the States and Subjects of the Sacred <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Empire; but at length growing even impatient of our Patience, being moved either with Envy at our Suc<g ref="char:EOLhyphen"/>cesses, against the <hi>Turks,</hi> or with an insatiable desire of enlarging its Borders, not minding its Faith so often given, and but lately renewed, despising all Law Divine, Ecclesiastical, and of civilized Nations at that very time, when our own Armies, and these of several States of the Empire (relying on publick Compacts and the Sanctimo<g ref="char:EOLhyphen"/>ny of the Royal Word) were for God's Glory besieg<g ref="char:EOLhyphen"/>ing the Infidels in <hi>Belgrade,</hi> did treacherously, and with<g ref="char:EOLhyphen"/>out any praevious Declaration of War, fall upon Us and the <hi>Empire,</hi> while we did not in the least dream of it, with all its Power took <hi>Philipsburg,</hi> destitute of the Faith of Leagues, and a necessary Garrison, invaded the <hi>Palatinate, Franconia, Suevia,</hi> and other Territories on the <hi>Rhine,</hi> pouring in men into the Country and Arch-Bishoprick of <hi>Cologne,</hi> endeavoured to obtrude upon Us, and the <hi>Roman</hi> Empire Cardinal <hi>Furstenberg,</hi> contrary to the lawful Election, rightly confirm'd by the Pope him<g ref="char:EOLhyphen"/>self, of the most serene Prince, <hi>Joseph Clement</hi> of <hi>Bavaria,</hi> for Arch-Bishop and Elector of <hi>Cologne,</hi> either by force or Treachery, hath upon certain Terms, got into its hands <hi>Mentz, Worms, Spire, Heilbrowne, Heildelberg, Frank<g ref="char:EOLhyphen"/>endale,</hi> and other Cities and strong Holds, subject, either mediately or immediately, to the sacred <hi>Roman</hi> Empire, and not sparing things sacred to Justice, hath destroy'd
+<pb n="3" facs="tcp:56932:2"/>the supreme Tribunal of the Empire, which in the times of the fiercest former Wars remain'd untouch'd in the said City of <hi>Spires,</hi> carrying the Writings and Evidences belonging to the whole Empire into <hi>France,</hi> hath wickedly appropriated to its own use the Poor and Orphans Money, there deposited and kept; hath extorted vast Contributions every where, yea, whole Cities, Towns and Countries, not<g ref="char:EOLhyphen"/>withstanding they paid the Taxes laid upon them, after they had, contrary to Faith, given and confirmed by the hand of the most serene <hi>Dauphin,</hi> been plundered; it hath partly destroy'd by burning, partly by Mines; it hath with so great Fury blown them up from the very Foundations, that a stone is not left upon a stone; and not keeping its wick<g ref="char:EOLhyphen"/>ed hands from the very Temples, and the ancient Pallaces of Princes it hath levell'd them to the ground: in some places it hath violently driven the stronger sort of Our Subjects, after the manner of the <hi>Barbarians,</hi> into Slave<g ref="char:EOLhyphen"/>ry, or to bear Arms in <hi>France;</hi> others, after they were robb'd of their Corn, which was all that was left after so great exactions, it forced to Plow their own Fields, when they were Sown; and it most severely forbid them upon pain of death ever for the future to exercise hus<g ref="char:EOLhyphen"/>bandry; finally, it hath every where, as far as the beast<g ref="char:EOLhyphen"/>ly inhumanity of its Souldiers could reach, undone all, with Murder, Sword, Fire, Rapine, and other horrid instances of Rage, Cruelty, Avarice and Lust, scarce known among <hi>Barbarians,</hi> and exceeding the very cruel<g ref="char:EOLhyphen"/>ty and malice of <hi>Tartars</hi> and <hi>Turks;</hi> and it continues to undoe, and moreover it persists to stir up the sworn Ene<g ref="char:EOLhyphen"/>mies of the <hi>Holy Cross,</hi> to the utter destruction of the Christian World, and to solicit them to joyn Arms with it by a League: We, with all the Electors, Princes and States, assembled in our Imperial City of <hi>Ratisbonne,</hi> have taken into mature deliberation how to defend and vindicate the liberty of our dearest Country from present ruine, and We being with their unanimous consent and suffrages addressed by them, that not only by Decreeing and Pub<g ref="char:EOLhyphen"/>lishing an universal and most just War all over the <hi>Ro<g ref="char:EOLhyphen"/>man</hi>
+               <pb n="4" facs="tcp:56932:3"/>Empire, We would according to our Imperial trust, together with Them, endeavour to repel such cruel injuries, and with all our might assert the Safety and Li<g ref="char:EOLhyphen"/>berty of the Empire; but also that we would esteem those as the common Enemies of the whole Empire, who shall assist the foresaid Crown, with Men, Horse, Arms, Pro<g ref="char:EOLhyphen"/>visions, Money, or by any other means whatever; and that We would earnestly forbid, especially our own and the <hi>Roman</hi> Empire's Subjects in <hi>Italy,</hi> any way to assist the fore mentioned Crown, or either directly or indi<g ref="char:EOLhyphen"/>rectly to promote its execrable undertakings, most se<g ref="char:EOLhyphen"/>verely and upon pain of loss of their Fees and other Advantages held of Us, and the Sacred <hi>Roman</hi> Empire. Since therefore by Our Imperial Authority, We have approved the fore-mentioned unanimous Sentence of the Electors, Princes and States of the Empire as agree<g ref="char:EOLhyphen"/>able to the Divine and Natural Law, and to every ones obligation, and relying on the assistance of the Divine Justice, have taken up Arms for the necessary defence of the Empire; so We hope none of you are so destitute of Pi<g ref="char:EOLhyphen"/>ety, nor will be so forgetful of your Allegiance and Du<g ref="char:EOLhyphen"/>ty, as that you will participate of so detestable cruelty and treachery, and of those crimes which have proceeded, and will proceed from thence, nor that you will lend any assistance or aid to the accursed attempts of the Ene<g ref="char:EOLhyphen"/>mies, only tending to the ruine and subversion of Our Country. Hence it is, well-beloved! that out of the plenitude of Our Imperial Power, We kindly and seri<g ref="char:EOLhyphen"/>ously admonish you, and upon Our own, and the Sacred <hi>Roman</hi> Empire's most grievous displeasure, and upon pain of losing all Fees, Priviledges, Rights and Immunities whatever, granted to you by Us or the <hi>Roman</hi> Empire, do strictly charge you, That none of you, of whatever State, Degree, Condition, Dignity and Pre-eminence he be, who is any way related to the <hi>Roman</hi> Empire, and enjoys the Honours and Prerogatives of the same, after the time that this Our Pleasure, either by Our original Letters, or by Copies of them (which We will have to
+<pb n="5" facs="tcp:56932:3"/>be of equal Authority) or otherwise shall be known; shall be assisting to the foresaid Crown of <hi>France,</hi> or to its Colleagues and Adherents, nor shall send any assi<g ref="char:EOLhyphen"/>stance, but shall recall them, if sent; if any of you serve it or its Aherents, he must quit his stipend, nor must he for the future serve under them; nor by Men, Money, Provisions, Corn, Gunpowder, Quarters, Passages, Advice, nor any other way whatever shall be aiding or assi<g ref="char:EOLhyphen"/>sting to their unjust designs, nor shall enter into any unlawful Treaties with them to the prejudice of the Empire; much less shall they voluntarily, or at the instigation of the <hi>French,</hi> those disturbers of <hi>Europe,</hi> make War either upon Our Hereditary Kingdoms and Provinces, or upon Our Liege People and Members of the Empire, or upon Our Vassalls, or those in League with us, in or without the Lands of the Empire upon any pretext whatever; nor shall he contrive any Hostilities against Us or them, nor give suspicion of such contrivances, nor shall he give his Assistance or Counsel to any others towards it. Well-Beloved! We therefore kindly Exhort you, that if per<g ref="char:EOLhyphen"/>chance any of your Children, Kindred, Clients, Vassals and Subjects, should serve in the Wars, or otherwise assist the Crown of <hi>France,</hi> its Favourers and Adherents, or any who are Enemies to Us, and the Empire, its Members and Allies, you would not only recall them under the commination of most grievous Punishments, respective<g ref="char:EOLhyphen"/>ly of loss of Goods, Feudal and Allodial, Benefits, Privi<g ref="char:EOLhyphen"/>ledges, Immunities, Honour and Life, and that forthwith you would severely proceed against the refractory; but that you would moreover chearfully employ your Power and Pains in a just cause, and for the Defence of the Empire; since by so doing, Well-Beloved! you will deserve well of Us and the Sacred <hi>Roman</hi> Empire, and of the whole Christian Common-wealth. But if any, contrary to ex<g ref="char:EOLhyphen"/>pectation and to this express Sanction of Ours and of the whole <hi>Roman</hi> Empire, shall be found to maintain the un<g ref="char:EOLhyphen"/>just pretensions of <hi>France,</hi> or to assist it or its Adherents, or their Aiders or Abbettors, or any of Our Enemies,
+<pb n="6" facs="tcp:56932:4"/>or the Enemies of those in League with Us, or to act or endeavour Hostilities against any one or all the Ele<g ref="char:EOLhyphen"/>ctors, Princes and States of the Sacred <hi>Roman</hi> Empire, or other Vassals, or in League with them, know that ye shall irremissibly be deprived of all the Benefits, Rights and Priviledges which he enjoys from Us and the Sacred <hi>Roman</hi> Empire, and that he shall without delay be pro<g ref="char:EOLhyphen"/>ceeded against by Our Imperial Fiscal. Which, that it may be the more manifest to all, and that none may pretend ignorance, We kindly require you, Well-Beloved! to take care that this Our <hi>Declaration</hi> be published and affixt in your Territories, and Districts respectively; In doing whereof, Well-Beloved! you will act as be<g ref="char:EOLhyphen"/>comes You and the Cause, and agreeable to Our Pleasure and Your own Duty. Upon Credit of this Our Letters Signed with Our own Hand, and Sealed with Our Imperial Seal.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our City of</hi> Vienna, <date>
+                     <hi>Apr.</hi> 9. 1689. <hi>Of Our</hi> Empire, <hi>the Thirty First; of Our Reign over</hi> Hungary, <hi>the Thirty Fourth; and over</hi> Bohemia, <hi>the Thirty Third Year,</hi>
+                  </date>
+               </dateline>
+               <signed>
+                  <hi>LEOPOLDƲS.</hi> V. <hi>Leopoldus Guilielmus</hi> Comes in <hi>Ronigzegg L. S.</hi>
+               </signed>
+               <signed>
+                  <hi>Ad Mandatum Sacrae Caesarcae Majestatis proprium</hi> C. F. <hi>Consbruch.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:56932:4"/>
+            <head>A LETTER FROM THE Electors, Princes, and States, Coun<g ref="char:EOLhyphen"/>cellors, and Embassadors Assembled in the <hi>Diet</hi> at <hi>Ratisbonne</hi> TO THE Most Serene and Potent JOHN III. <hi>King of Poland,</hi> &amp;c.</head>
+            <head type="sub">Written <hi>May</hi> the 4th. and Published the 13th. of the same Month.</head>
+            <opener>
+               <salute>Most Serene and Most Potent KING, Most Gracious Lord!</salute>
+            </opener>
+            <p>THE Constant reports of some by past Years have undoubtedly informed your Majesty, how, under the specious, but vain and rapacious pretence of dependence, after the Peace of <hi>Nimeghen,</hi> the <hi>Roman</hi> Empire, urged by the <hi>French</hi> with Invasions, Seizings, and Devastation of Cities and Countries, and infinite Injuries,
+<pb n="8" facs="tcp:56932:5"/>was at length <hi>Anno</hi> 1684. compell'd to yield to the no less hard, than unjust Terms of a Truce for Twenty Years, with renouncing the Soveraignty over some Provinces for a time. The State of publick affairs at that juncture made it necessa<g ref="char:EOLhyphen"/>ry to submit to them, being then intent upon a War with the <hi>Turks,</hi> as also did the care of Defending the Christian Faith and Our Country, nor was a prosperous Success of Affairs wanting, and the grateful and firm hope of doing greater things, and of procuring Ease and Security to Your Ma<g ref="char:EOLhyphen"/>jesty and to the Kingdom of <hi>Poland</hi> was Vigorous, till slight<g ref="char:EOLhyphen"/>ing the Established Articles of the Peace of <hi>Westphalia</hi> and <hi>Nimeghen,</hi> and the Twenty Years Truce; the <hi>French</hi> King envying the Victories of the Christians, and (as is plainly ap<g ref="char:EOLhyphen"/>parent) favouring the Interests of the <hi>Turks</hi> and <hi>Tartars,</hi> and endeavouring to repair their losses without declaring War, or any previous Commemoration of Grievances or Complaints, basely and Treacherously in a Hostile manner falls upon the back of the <hi>Emperour</hi> and the <hi>Roman</hi> Empire, when they were engaged in a War with the <hi>Turks,</hi> and lit<g ref="char:EOLhyphen"/>tle dreamt of it, the frontier Garrisons on the <hi>Rhine,</hi> being in Confidence of Peace, naked of sufficient Provisions, he either takes by immane fury and violence, or by direful threats and menaces, or by colloguing fawning; when he had no hopes to gain <hi>Coblentz,</hi> by reason of the Fidelity shewn to the Empe<g ref="char:EOLhyphen"/>rour and Empire by his Eminence the Elector of <hi>Treves,</hi> out of stark madness to do mischief, he burns it with Bombs and such like inventions; He depopulates Provinces, he oppres<g ref="char:EOLhyphen"/>ses the unwary and innocent Subjects of the Empire far and near, and spoils them of all their Fortunes: First, after a barbarous manner, he drags them that are set apart for the Divine Ministry, into captivity, and by stealing from the rest their food, necessary to sustain Life; some he starves, others he murders. Every mans heart akes to think how wickedly the profidious Nation did at the Kings Command, utterly destroy with Fire <hi>Heidelberg,</hi> founded by Emperors, an Electoral, and among Mountainous Fortifications, the Chief Seat of all <hi>Europe,</hi> when it was spontaneously surren<g ref="char:EOLhyphen"/>dred upon Terms of Immunity, Confirmed and Subscribed
+<pb n="9" facs="tcp:56932:5"/>by the <hi>Dauphin; Manheim,</hi> the sinest Mart of that district, after a few days Siege, when it was surrendred upon good Terms, having fouly violated his promise, he not only le<g ref="char:EOLhyphen"/>vell'd it with the ground, but with Gun-powder blew up from the very Foundation both private Houses and Churches, even such as served for the Exercise of the <hi>Catholick</hi> Re<g ref="char:EOLhyphen"/>ligion; he took away the <hi>Palatine</hi> Archive, by taking away the Acts and Evidences of the Supream Judicature of the Imperial Chamber, which in all by-past Wars whatever were taken care of by the Enemy, to the irreparable damage of many Thousands that were at Law; he hath extirpated the administration of Sacred Justice, and whatever wicked<g ref="char:EOLhyphen"/>ness or villany the cruellest of Enemies could invent in ages long time past, to destroy Countries to that very death; that all this has been exercised by a wicked and villainous Nation in the most fruitful and beautiful Region of all <hi>Germany,</hi> the Province that is defaced with its own Ruines may testify: So that indeed the most Sacred Emperour, and the Electors, Princes and States of the <hi>Roman</hi> Empire being provoked with so perfidious devastations and robberies, (for indeed it deserves not the name of a War) and being tired out with so often repeated cruelties, as also be<g ref="char:EOLhyphen"/>ing mindeful of the safeguard of the Empire, and its Sub<g ref="char:EOLhyphen"/>jects committed to them by God, and of their own duty, have declared War against the <hi>French,</hi> and having part<g ref="char:EOLhyphen"/>ly drawn (to the great damage of the Christians) Soul<g ref="char:EOLhyphen"/>diers from the <hi>Turkish</hi> expedition, and having partly drawn and raised them in other places, relying on the High Justice of our Cause, and upon the Divine Assistance, have decreed to give check to this first most unjust effort, and with Councels and Force linck'd by an indissoluble tie to advance our Arms against the Enemy, for the repa<g ref="char:EOLhyphen"/>ration of such heinous injuries and damages sustained, and to procure perpetual security and tranquility to the Em<g ref="char:EOLhyphen"/>pire as from the unanimous decree of the States, most gra<g ref="char:EOLhyphen"/>ciously approved by His Imperial Majesty (a Copy where<g ref="char:EOLhyphen"/>of We together with the translation, add to these) more
+<pb n="10" facs="tcp:56932:6"/>fully will appear; besides, not being ignorant by what shameful shifts and tricks, unbecoming any thing call'd a King; the <hi>French</hi> King uses to involve those that are pro<g ref="char:EOLhyphen"/>voked by him, and are upon their guard against him in mutual picques and grudges, as under the false pretext of difference in Religion, the same has unsuccessfully been practised, and is at present pleaded: First of all, they have thought it material, yea absolutely necessary, setting aside all Neutrality, as they call it; whatever Power the Divine Providence has bestowed on the Emperor &amp; Empire, to ga<g ref="char:EOLhyphen"/>ther it unanimously together, to turn our Arms with a cou<g ref="char:EOLhyphen"/>ragious and resolved mind on the Enemy, and not to de<g ref="char:EOLhyphen"/>sist from the prosecution of the War, till a sufficient re<g ref="char:EOLhyphen"/>dress of so many bitter evils (which we hope from God) shall be had, and further caution for the future, and also to de<g ref="char:EOLhyphen"/>clare him or them to be Enemies of the Empire, who shall by invasion or depredation infest any of their Teritories, even without the Empire, or that shall endeavour to turn the Arms of the Empire or of its Allies, to the side of <hi>France,</hi> and also to invite all Crowns and Republicks, who have regard to their Faith or Promise, into Our Assistance and Alliance against the Enemy of all Faith, that being banished from him. And most serene King! since an anci<g ref="char:EOLhyphen"/>ent and firm friendship hath been between the Emperors and Empire, and the Kingdom of <hi>Poland,</hi> which not long since in Friendly raising the Siege of <hi>Vienna,</hi> when Besieged by the <hi>Infidels</hi> (which benefit We at present gratefully ac<g ref="char:EOLhyphen"/>knowledg, and shall ever be acknowledged by all Posterity) Your Majesty and the Common wealth of <hi>Poland,</hi> have a<g ref="char:EOLhyphen"/>bundantly made good; and also since, by this nefarious robbing by the <hi>French,</hi> which has recalled the greatest part of our Victorious Forces out of <hi>Servia</hi> and <hi>Bosnia,</hi> the side of our Ally, the Kingdom of <hi>Poland,</hi> is not slightly wounded, and its security rendred hazardous; and especi<g ref="char:EOLhyphen"/>ally, because it is not to be doubted, but Your Majesty does abominate this villainous irruption: All these things put us in hopes, that your Majesty, to repress a power so
+<pb n="11" facs="tcp:56932:6"/>immane and hurtful to the World, and insulting upon every one at its pleasure (which boasts that it wages War with all <hi>Europe,</hi> and also hath late declared War upon fri<g ref="char:EOLhyphen"/>volous pretences, by a publick Edict, against the <hi>Catholick</hi> King, contrary to the instrument of Truce made with him, reckoned only for fashions-sake to have been inserted in the Truce between the <hi>Imperialists</hi> &amp; the <hi>French</hi>) will joyn your Counsels and Arms, and those of the Commonwealth, with those of the Emperor's and Empire: We therefore having instructions by the especial command of Our Masters, do with all submission due, beseech your Majesty, that you would extend the League entred into, with the most August Emperor against this new Enemy, therefore the more dan<g ref="char:EOLhyphen"/>gerous, because destitute of all Faith; or otherwise, that you would please to enter into a separate treaty, and what, to this purpose, we know has been signified by the most invincible Emperor to your Majesty, repeating it here, We invite You into a more close confederacy.</p>
+            <p>But however, since the War with the <hi>Turks</hi> is still on foot, if We should fall short of Our hopes of obtaining a helping Hand from Your Majesty and the Common-wealth of <hi>Poland;</hi> we are certainly assured, that you will care<g ref="char:EOLhyphen"/>fully and solicitously look to it, that by no <hi>French</hi> instigations or other evil arts, they and the <hi>Turks</hi> joyn Forces, and make depraedations upon the Emperor and States, or upon any of the Confederates in your Confines without the Empire, nor that any of their Subjects be vext in any place with Invasions and Robberies, and if (which God forbid) things should happen otherwise than well, that You would with a willing mind joyn your Arms with Ours to pursue and extirpate these Invaders. We beseech Almighty God to inspire Your Majesty with Counsels worthy a Christian Prince, by which the pride of our Enemies being represt, perpetual Peace and Tranquility may be procured to <hi>Europe:</hi> And nothing remains, but that We heartily Pray
+<pb n="12" facs="tcp:56932:7"/>for a happy Success of Affairs, and prosperous Events in Your Government, and to all undertakings beneficial to the Christian VVorld.</p>
+            <closer>
+               <dateline>
+                  <hi>Ratisbonne,</hi> from the <hi>Diet,</hi>
+                  <date>May 4th. 1689.</date>
+               </dateline>
+               <signed>
+                  <hi>Your Majesties Most humble Servants, The</hi> Councellors <hi>and</hi> Embassadors <hi>of the</hi> Electors, Princes <hi>and</hi> States <hi>of the Sacred</hi> Roman Em<g ref="char:EOLhyphen"/>pire, <hi>there Assembled.</hi>
+               </signed>
+               <salute>To the Most Serene and Potent Prince, and Lord, <hi>John</hi> the Third, KING of <hi>Poland,</hi> Great Duke of <hi>Lithuania,</hi> and of <hi>Russia, Brussia, Massovia, Samo<g ref="char:EOLhyphen"/>gitea, &amp;c.</hi> Our Most Gracious Lord.</salute>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Clavel</hi> in St. <hi>Pauls-Church. Yard,</hi> 1689.</p>
+            <pb facs="tcp:56932:7"/>
+         </div>
+      </back>
+   </text>
+</TEI>
